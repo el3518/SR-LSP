@@ -3,6 +3,10 @@ This is the implementation of "Super-resolution using neighbourhood regression w
 
 The toolbox VLFeat can be found [here](https://www.vlfeat.org/download/?C=N;O=A).
 
+Other toolboxes and data can be found [here](https://github.com/el3518/MultiChannel)
+
+Run "HireRes_demo.m" for training and testing.
+
 If you find this helpful, please cite our paper!
 
 Citation
